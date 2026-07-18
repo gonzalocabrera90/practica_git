@@ -1,3 +1,1 @@
-probar comandos git
-
-Esta es una nueva linea agregada desde la rama de mejora.
+Texto modificado por la Rama B
