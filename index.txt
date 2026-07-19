@@ -1,2 +1,1 @@
-Texto modificado por la Rama B
-Texto modificado por la Rama A
+Texto modificado en Github
